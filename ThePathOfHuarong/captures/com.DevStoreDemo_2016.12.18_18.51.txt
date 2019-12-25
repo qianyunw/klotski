@@ -1,0 +1,32 @@
+TASK com.DevStoreDemo id=11889
+  ACTIVITY com.DevStoreDemo/.ThePathOfHuarong 5a8c2ae pid=17940
+    Local Activity 2dbf0e State:
+      mResumed=true mStopped=false mFinished=false
+      mChangingConfigurations=false
+      mCurrentConfig={1.0 460mcc1mnc zh_CN ldltr sw320dp w320dp h551dp 160dpi nrml long port finger -keyb/v/h -nav/h s.12 themeChanged=0 themeChangedFlags=0}
+      mLoadersStarted=true
+      FragmentManager misc state:
+        mHost=android.app.Activity$HostCallbacks@684cd2f
+        mContainer=android.app.Activity$HostCallbacks@684cd2f
+        mCurState=5 mStateSaved=false mDestroyed=false
+    ViewRoot:
+      mAdded=true mRemoved=false
+      mConsumeBatchedInputScheduled=false
+      mConsumeBatchedInputImmediatelyScheduled=false
+      mPendingInputEventCount=0
+      mProcessInputEventsScheduled=false
+      mTraversalScheduled=false
+      android.view.ViewRootImpl$NativePreImeInputStage: mQueueLength=0
+      android.view.ViewRootImpl$ImeInputStage: mQueueLength=0
+      android.view.ViewRootImpl$NativePostImeInputStage: mQueueLength=0
+    Choreographer:
+      mFrameScheduled=false
+      mLastFrameTime=36826636 (26713 ms ago)
+    View Hierarchy:
+      com.android.internal.policy.PhoneWindow$DecorView{e69df3c V.E...... R.....I. 0,0-320,569}
+        android.widget.LinearLayout{98084c5 V.E...... ......I. 0,0-320,569}
+          android.view.ViewStub{98abe1a G.E...... ......I. 0,0-0,0 #10203b9 android:id/action_mode_bar_stub}
+          android.widget.FrameLayout{81b0d4b V.E...... ......I. 0,18-320,569 #1020002 android:id/content}
+            com.DevStoreDemo.ChessboardView{493b328 V.ED..... ......I. 0,0-320,551}
+    Looper (main, tid 1) {c69a841}
+      (Total messages: 0, polling=false, quitting=false)
